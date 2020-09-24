@@ -1,0 +1,12 @@
+{
+    "name": "discord-test-bot",
+    "version": "1.0.0",
+    "main": "bot.js",
+    "repository": "git@github.com:davidwarrington/discord-test-bot",
+    "author": "davidwarrington <davidmwarrington+github@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^12.3.1",
+        "dotenv": "^8.2.0"
+    }
+}
